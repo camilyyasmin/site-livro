@@ -25,7 +25,7 @@ Se você está pronto para desafiar suas perspectivas, expandir seus horizontes 
 
 ## Print da Tela Inicial
 
-![Print da tela inicial](C:\Users\SENAI2EM\Documents\REPOSITORIOS\SITE-LIVRO\miniaturas)
+![Print da tela inicial](https://github.com/camilyyasmin/site-livro/commit/0e2644afee55403bf1503a9e46528dd363a35f5f)
 
 ## Autores
 
